@@ -1,0 +1,4 @@
+*.coffee
+coffeelint.json
+test/
+.coveralls.yml
