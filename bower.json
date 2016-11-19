@@ -1,0 +1,16 @@
+{
+  "name": "yanp",
+  "description": "yet another node metrics/probe (from pmx/probe)",
+  "main": "index",
+  "authors": [
+    "Venkat Peri <venkatperi@gmail.com> (http://www.vperi.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/venkatperi/probe",
+  "moduleType":"amd",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
